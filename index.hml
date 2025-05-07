@@ -1,0 +1,30 @@
+<html>
+  <head>
+  <link rel="stylesheet" href box = "style.css">
+  </head>
+<tltle>Title</title>
+  <body>
+  <h3>Introductions and Information</h3>
+  <table>
+    <tr>
+      <th>Rated R</th>
+      <th>The Chainsaw Massacre</th>
+      <th>DeadPool</th>
+      <th>Friday</th>
+    </tr>
+    <tr>
+      <th>Rated PG-13</th>
+      <th>Rush Hour</th>
+      <th>Nacho Libre</th>
+      <th>Pixels</th>
+    </tr>
+      <th>Pg</th>
+      <th>Sonic Movie</th>
+      <th>Home Alone 2</th>
+      <th>SpiderMan Across the Spider Verse</th>
+  </table>
+
+
+
+  </body>
+</html>
