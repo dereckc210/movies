@@ -4,6 +4,21 @@
   </head>
 <tltle>Title</title>
   <body>
+  
+  	<h3>Login</h3>
+    <form action="#" method="post">
+       <label for="username">Username:</label>
+       <br/>
+       <input type="text" id="username" name="username">
+    </form>
+    <form action="#" method="post">
+       <label for="password">Password:</label>
+       <br/>
+       <input type="text" id="password" name="password">
+    </form>
+    <button type="submit">Submit</button>
+    
+
   <h3>Introductions and Information</h3>
   <table style="width:70%">
     <tr style="height:100px">
